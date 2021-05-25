@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "1061838735888",
+    "firebase_url": "https://aiims-37dba.firebaseio.com",
+    "project_id": "aiims-37dba",
+    "storage_bucket": "aiims-37dba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061838735888:android:db4ccd5a3522bd49429895",
+        "android_client_info": {
+          "package_name": "com.aiims"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061838735888-dm4b4vce0odsp21ainm8bfhjab2mqjgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aiims",
+            "certificate_hash": "d6e3b9cac985884145927f8c57eb2e5f660dd07f"
+          }
+        },
+        {
+          "client_id": "1061838735888-kgl005u5v82inbomt37g4ghceegb1jo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aiims",
+            "certificate_hash": "3481186129fd3b47bf8eca19b1386a3c39e310b0"
+          }
+        },
+        {
+          "client_id": "1061838735888-8i4jrv5bkbkqflaq68s87c7frsc36fg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aiims",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1061838735888-167kejftuvebvvg1qe461aqgqddkskkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUyCrlCKHaJ9kDefuZhPkVv74xe_orFl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061838735888-167kejftuvebvvg1qe461aqgqddkskkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
